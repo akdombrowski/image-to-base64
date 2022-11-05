@@ -1,0 +1,14 @@
+{
+  "name": "image-to-base64",
+  "version": "0.0.1",
+  "description": "convert image to base64",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/akdombrowski/image-to-base64.git",
+  "author": "Anthony Dombrowski <akdflyinvee73@gmail.com>",
+  "license": "MIT",
+  "private": "false",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
